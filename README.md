@@ -2,7 +2,7 @@
 ## Project Group 2
 ## Data Science Certification Program at Southern Methodist University 
 
-<img src="resources/assets/images/baseball.png" alt="Baseball" width="181" height="100"/>
+<img src="last_base\static\images\baseball.jpg" alt="Baseball" width="181" height="100"/>
 
 ### Project Summary
 In this project, [Sean Lahman’s Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/ "Sean Lahman’s Baseball Database") is analyzed.  
